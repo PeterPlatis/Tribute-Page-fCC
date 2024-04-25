@@ -78,6 +78,6 @@ section {
 }
 
 section, footer {
-    max-width: fit-content;
+    max-width: 50rem;
     margin: auto;
 }
